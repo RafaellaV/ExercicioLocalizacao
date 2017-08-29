@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.edu.iff.pooa20171.exerciciolocalizacao.MainActivity">
+    tools:context="br.edu.iff.pooa20171.exerciciolocalizacao.Activities.MainActivity">
 
     <TextView
         android:id="@+id/tvOpcao"

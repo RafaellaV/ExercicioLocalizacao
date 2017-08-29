@@ -24,7 +24,7 @@ import java.io.IOException;
 import java.util.List;
 
 import br.edu.iff.pooa20171.exerciciolocalizacao.R;
-import br.edu.iff.pooa20171.exerciciolocalizacao.PermissionUtils;
+import br.edu.iff.pooa20171.exerciciolocalizacao.Util.PermissionUtils;
 
 import static android.Manifest.permission.ACCESS_COARSE_LOCATION;
 import static android.Manifest.permission.ACCESS_FINE_LOCATION;
